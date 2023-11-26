@@ -1,0 +1,140 @@
+.LANDING-PAGE-admin {
+    background-color: #fffbfb;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .LANDING-PAGE-admin .div {
+    background-color: #fffbfb;
+    overflow: hidden;
+    width: 414px;
+    height: 736px;
+    position: relative;
+  }
+  
+  .LANDING-PAGE-admin .overlap {
+    position: absolute;
+    width: 434px;
+    height: 121px;
+    top: 0;
+    left: -20px;
+  }
+  
+  .LANDING-PAGE-admin .ellipse {
+    width: 333px;
+    height: 121px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .LANDING-PAGE-admin .status-bar {
+    position: absolute;
+    width: 434px;
+    height: 44px;
+    top: 0;
+    left: 0;
+  }
+  
+  .LANDING-PAGE-admin .overlap-group {
+    position: relative;
+    width: 414px;
+    height: 33px;
+    left: 20px;
+  }
+  
+  .LANDING-PAGE-admin .notch {
+    position: absolute;
+    width: 414px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .LANDING-PAGE-admin .status-icons {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+    top: 16px;
+    left: 331px;
+  }
+  
+  .LANDING-PAGE-admin .network-signal-light {
+    position: relative;
+    width: 20px;
+    height: 14px;
+  }
+  
+  .LANDING-PAGE-admin .wifi-signal-light {
+    position: relative;
+    width: 16px;
+    height: 14px;
+  }
+  
+  .LANDING-PAGE-admin .battery-light {
+    position: relative;
+    width: 25px;
+    height: 14px;
+  }
+  
+  .LANDING-PAGE-admin .time-light {
+    position: absolute;
+    width: 54px;
+    height: 21px;
+    top: 12px;
+    left: 1px;
+  }
+  
+  .LANDING-PAGE-admin .whatsapp-image {
+    position: absolute;
+    width: 322px;
+    height: 174px;
+    top: 194px;
+    left: 59px;
+    object-fit: cover;
+  }
+  
+  .LANDING-PAGE-admin .overlap-2 {
+    position: absolute;
+    width: 414px;
+    height: 341px;
+    top: 395px;
+    left: 0;
+  }
+  
+  .LANDING-PAGE-admin .rectangle {
+    position: absolute;
+    width: 339px;
+    height: 32px;
+    top: 0;
+    left: 38px;
+    background-image: url(./img/rectangle-31.svg);
+    background-size: 100% 100%;
+  }
+  
+  .LANDING-PAGE-admin .text-wrapper {
+    position: absolute;
+    width: 101px;
+    top: 3px;
+    left: 169px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .LANDING-PAGE-admin .img {
+    width: 414px;
+    height: 341px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
